@@ -1,11 +1,8 @@
 # manuel4junio25web
 pagina web
-<!DOCTYPE html>
-<html
-</head>
-<title>MI PAGNIA WEB</title>
+
 <body bgcolor="3bd000">
-<h1 style="color:blue;"> hola mundo (ultra instinto)<center></h1></center>
+style="color:blue;"> hola mundo (ultra instinto)<center></h1></center>
 <p style="color:black;">En la vida real, el "ultra instinto" no es una transformación física ni una técnica mágica. Más bien, se trata de un estado mental y emocional que se puede lograr a través del entrenamiento, la concentración y la práctica. Es similar al concepto japonés de "Mushin" (sin mente), donde se busca eliminar el pensamiento consciente para actuar de manera intuitiva y reflexiva. El concepto de ultra instinto en la vida real:
 Concentración y enfoque:
 El ultra instinto requiere una profunda concentración en el presente, sin que la mente se distraiga con pensamientos del pasado o el futuro. 
@@ -27,6 +24,4 @@ En resumen: El ultra instinto en la vida real no es una transformación física,
 <img src="ultrainstinto.png" alt= "imagen"/>
 <a href="https://www.youtube.com/watch?v=2WnUKhfFCI0">Mira este video</a>
 <ol> <B>
-</body>
-</html>
 
